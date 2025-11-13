@@ -14,8 +14,8 @@
 
 ## 🛠️ Skills
 
-- Programming: JavaScript, Python, Java, PHP
-- Web: HTML, CSS, Laravel, Node.js
+- Programming: JavaScript, Python, PHP
+- Web: HTML, CSS, Laravel, React.js
 - Tools: Git
 
 ## 📈 GitHub Stats
