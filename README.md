@@ -21,7 +21,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Sitraka1266&show_icons=true&theme=radical" alt="Sitraka1266's GitHub stats"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sitraka1266&theme=github_dark" alt="Sitraka1266's GitHub stats"/>
 </p>
 
 ## 📫 Contact Me
