@@ -27,7 +27,7 @@
 ## Contact Me
 
 - Email: sitrakaratovonarivo84@gmail.com
-- X: [@sitrakarat16009](https://x.com/sitrakarat16009)
+- My portfolio: [S-folio](https://sitraka-folio.vercel.app)
 
 ---
 
